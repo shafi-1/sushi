@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e627cb2-47ff-40fe-a895-00b336a2c023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/AppTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/ServerApplication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/class-use/AppTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/class-use/ServerApplication.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Dish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Drone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Ingredient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Postcode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Restaurant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Staff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/Supplier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/UpdateEvent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/UpdateListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/User.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Dish.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Drone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Ingredient.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Postcode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Restaurant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Staff.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/Supplier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/UpdateEvent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/UpdateListener.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/class-use/User.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/common/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/MockServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/class-use/MockServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/mock/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/ServerInterface.UnableToDeleteException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/ServerInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/ServerWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/class-use/ServerInterface.UnableToDeleteException.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/class-use/ServerInterface.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/class-use/ServerWindow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/comp1206/sushi/server/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/serialized-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/ClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/Launcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/ServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Dish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Drone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Ingredient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Model.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Postcode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Restaurant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/Supplier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/UpdateEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/UpdateListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/common/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/mock/MockServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/AddDeleteTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$AmountListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$CreateListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$DeleteDishListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$RecipeListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab$ThresholdListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DishesTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DronesTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DronesTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DronesTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/DronesTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab$AmountListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab$ThresholdListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/IngredientsTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/OrderUserTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/OrdersTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/OrdersTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/PostcodesTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/PostcodesTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/PostcodesTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/PostcodesTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/ServerInterface$UnableToDeleteException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/ServerInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/ServerWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/StaffTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/StaffTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/StaffTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/StaffTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/SuppIngredTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/SuppliersTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/SuppliersTab$AddListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/SuppliersTab$DeleteListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/SuppliersTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/UsersTab$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/main/comp1206/sushi/server/UsersTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/ClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Drone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Postcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/UpdateEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/UpdateListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/mock/MockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/AddDeleteTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/DishesTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/DronesTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/IngredientsTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/OrderUserTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/OrdersTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/PostcodesTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/ServerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/ServerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/StaffTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/SuppIngredTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/SuppliersTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comp1206/sushi/server/UsersTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/comp1206/sushi/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sushi.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1a37bmeEv3JarvfSnRcOLAIjnfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585949420067" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comp1206.sushi.Launcher" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comp1206.sushi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e627cb2-47ff-40fe-a895-00b336a2c023" name="Default Changelist" comment="" />
+      <created>1553498894937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553498894937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="289" width="293" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585952586501">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="553" y="289" width="293" height="214" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/43.27.1323.741@43.27.1323.741" timestamp="1585952586500" />
+    <state x="728" y="100" width="590" height="625" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1585961607567">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="728" y="100" width="590" height="625" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/43.27.1323.741@43.27.1323.741" timestamp="1585961607567" />
+    <state x="387" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1585959859085">
+      <screen x="43" y="27" width="1323" height="741" />
+    </state>
+    <state x="387" y="225" key="com.intellij.ide.util.TipDialog/43.27.1323.741@43.27.1323.741" timestamp="1585959859085" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
